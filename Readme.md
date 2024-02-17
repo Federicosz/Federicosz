@@ -6,8 +6,8 @@
 
 ## 💬 Mottos:
 
-- Embrace the journey and be your best version of yourself.
-- Applying the power of compound interest in every aspect of my life.
+- Embrace the journey and strive to be the best version of yourself.
+- Apply the power of compound interest in every aspect of my life.
  
  
 ## ⚡ Technologies
